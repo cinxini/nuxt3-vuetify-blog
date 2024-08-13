@@ -1,6 +1,5 @@
 <template>
   <div>
-    <NuxtRouteAnnouncer />
-    <NuxtWelcome />
+    <v-btn class="ma-4">Vuetify Button</v-btn>
   </div>
 </template>
