@@ -23,13 +23,5 @@ export default defineNuxtConfig({
       },
     },
   },
-  app: {
-    baseURL: '/nuxt3-vuetify-blog/'
-  },
-  generate: {
-    nojekyll: true
-  },
-  ssr: true,
-  target: 'static'
 
 })
