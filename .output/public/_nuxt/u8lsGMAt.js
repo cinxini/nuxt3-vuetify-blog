@@ -1,0 +1,1 @@
+import{_ as t,L as e,t as o,A as a,x as r}from"./DUjEUekV.js";import{V as s}from"./7tE07uYE.js";import"./_GrmGIzX.js";const c={},n=r("h1",null,"About page",-1);function _(f,i){return o(),e(s,null,{default:a(()=>[n]),_:1})}const d=t(c,[["render",_]]);export{d as default};

@@ -1,0 +1,1 @@
+import{_ as e,L as t,A as o,t as a,x as r}from"./DUjEUekV.js";import{V as n}from"./7tE07uYE.js";import"./_GrmGIzX.js";const s={},c=r("h1",null,"Home page",-1);function _(i,f){return a(),t(n,null,{default:o(()=>[c]),_:1})}const p=e(s,[["render",_]]);export{p as default};
